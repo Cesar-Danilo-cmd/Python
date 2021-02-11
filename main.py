@@ -1,4 +1,3 @@
-vscode://vscode.github-authentication/did-authenticate?windowid=1&code=f2547c55c77327cb0a08&state=1acc97ab-1856-4f45-88b8-67d3f8305656
 
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
